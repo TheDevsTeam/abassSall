@@ -10,7 +10,9 @@
         <%= image_tag(@posts.photo, style: "width:auto") %>
       </div>
       <% else %>
-      "No photo available."
+      <div class="card-topper">
+        <%= image_tag @posts.banner_image_url %>
+      </div>
     <%end%>
     <p><%= @posts.display_day_published %></p>
 

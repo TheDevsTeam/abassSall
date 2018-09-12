@@ -22,8 +22,12 @@
 
 // cz549ota6d53mqkxvztmpe3y9zy9mu9u7s767dg2weo3okyo
 
-
-// $(document).on('click', 'li', function () {
+// $(document).on('click', '.ckeditor', function () {
 //   location.reload(true);
-//   // console.log('Yeah');
+//   console.log('Yeah');
 // });
+
+$(document).on('click', '.ckeditor', function () {
+  location.reload(true);
+  // console.log('Yeah');
+});
