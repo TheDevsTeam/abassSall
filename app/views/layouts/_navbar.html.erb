@@ -94,13 +94,15 @@ Central online place where  -->
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light navbar navbar-dark bg-dark navbar-right">
     <a class="navbar-brand" href="/">
-      Hadarat Ibn Abass<span class="light">Sall</span>
+      <img style="max-width:100px; height: 50px;"
+      src="http://4.bp.blogspot.com/-fb5fyTXJGGU/UHwWzqnA-_I/AAAAAAAAACk/Hqr8tcoWaLk/s1600/ABASS+%252832%2529.bmp">
+      Hadarat Ibn Abass <span class="light">Sall</span>
     </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse"  id="navbarToggler">
-    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+    <ul class="navbar-nav nav navbar-right ml-auto mt-2 mt-lg-0">
       <li class="nav-item" >
         <%= link_to 'Home', welcome_home_path, class: "nav-link #{yield(:news_active)}" %>
       </li>
@@ -141,10 +143,10 @@ Central online place where  -->
 
       </li>
       <%end%>
-      <form class="form-inline my-2 my-lg-0">
+      <!-- <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
+      </form> -->
     </ul>
   </div>
 </nav>
