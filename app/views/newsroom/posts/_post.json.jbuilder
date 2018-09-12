@@ -28,7 +28,7 @@ json.url post_url(post, format: :json)
 #             <%= link_to post, class: "btn btn-default" do %>
 #             <i class="fa fa-comments fa-lg" aria-hidden="true"></i>
 #             <%end %>
-#             <%= link_to 'https://www.facebook.com/sharer/sharer.php?u=http://www.thenewspanel.com/', class: "btn btn-default" do %>
+#             <%= link_to 'https://www.facebook.com/sharer/sharer.php?u=http://www.abasssall.com/', class: "btn btn-default" do %>
 #             <i class="fa fa-facebook fa-lg"></i>
 #             <%end %>
 #           </ul>
@@ -66,7 +66,7 @@ json.url post_url(post, format: :json)
 #                       <%= link_to post, class: "btn btn-default" do %>
 #                       <i class="fa fa-comments fa-lg" aria-hidden="true"></i>
 #                       <%end %>
-#                       <%= link_to 'https://www.facebook.com/sharer/sharer.php?u=http://www.thenewspanel.com/', class: "btn btn-default" do %>
+#                       <%= link_to 'https://www.facebook.com/sharer/sharer.php?u=http://www.abasssall.com/', class: "btn btn-default" do %>
 #                       <i class="fa fa-facebook fa-lg"></i>
 #                       <%end %>
 #                     </ul>

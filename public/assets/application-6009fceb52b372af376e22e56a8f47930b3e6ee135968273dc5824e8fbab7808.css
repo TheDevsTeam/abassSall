@@ -10593,19 +10593,19 @@ a.text-dark:focus, a.text-dark:hover {
   visibility: hidden !important;
 }
 
-/* line 1, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 1, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .thin-text {
   font-weight: 300;
 }
 
-/* line 4, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 4, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination {
   background: white;
   cursor: default;
   /* self-clearing method: */
 }
 
-/* line 8, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 8, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination a, .digg_pagination span, .digg_pagination em {
   padding: 0.2em 0.5em;
   display: block;
@@ -10613,13 +10613,13 @@ a.text-dark:focus, a.text-dark:hover {
   margin-right: 1px;
 }
 
-/* line 13, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 13, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination .disabled {
   color: #999999;
   border: 1px solid #dddddd;
 }
 
-/* line 16, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 16, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination .current {
   font-style: normal;
   font-weight: bold;
@@ -10628,20 +10628,20 @@ a.text-dark:focus, a.text-dark:hover {
   border: 1px solid #2e6ab1;
 }
 
-/* line 22, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 22, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination a {
   text-decoration: none;
   color: #105cb6;
   border: 1px solid #9aafe5;
 }
 
-/* line 26, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 26, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination a:hover, .digg_pagination a:focus {
   color: #000033;
   border-color: #000033;
 }
 
-/* line 29, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 29, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination .page_info {
   background: #2e6ab1;
   color: white;
@@ -10651,14 +10651,14 @@ a.text-dark:focus, a.text-dark:hover {
   text-align: center;
 }
 
-/* line 36, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 36, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination .page_info b {
   color: #000033;
   background: #6aa6ed;
   padding: 0.1em 0.25em;
 }
 
-/* line 40, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 40, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 .digg_pagination:after {
   content: ".";
   display: block;
@@ -10667,90 +10667,90 @@ a.text-dark:focus, a.text-dark:hover {
   visibility: hidden;
 }
 
-/* line 46, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 46, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 * html .digg_pagination {
   height: 1%;
 }
 
-/* line 48, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_util.scss */
+/* line 48, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_util.scss */
 *:first-child + html .digg_pagination {
   overflow: hidden;
 }
 
-/* line 1, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_base.scss */
+/* line 1, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_base.scss */
 body {
   background-color: #e8e8e8;
 }
 
-/* line 5, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_base.scss */
+/* line 5, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_base.scss */
 h1, .card-title {
   font-weight: bold;
 }
 
-/* line 9, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_base.scss */
+/* line 9, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_base.scss */
 h6 {
   font-weight: 300;
   color: #757575;
 }
 
-/* line 14, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_base.scss */
+/* line 14, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_base.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
-/* line 18, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_base.scss */
+/* line 18, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_base.scss */
 p, p span {
   font-family: 'Merriweather' serif !important;
   font-size: 20px;
 }
 
-/* line 1, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 1, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .navbar {
   border-radius: 0;
   margin-bottom: 20px;
   background-color: #FFFFFF;
 }
-/* line 5, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 5, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .navbar .navbar-brand {
   font-weight: bolder;
   color: #D32F2F;
 }
-/* line 8, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 8, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .navbar .navbar-brand .light {
   font-weight: 300;
   color: #FFFFFF;
 }
-/* line 13, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 13, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .navbar .navbar-toggler {
   outline: none;
 }
-/* line 16, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 16, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .navbar .nav-link {
   color: #FFFFFF !important;
 }
-/* line 18, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 18, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .navbar .nav-link:active {
   color: #D32F2F !important;
 }
 
-/* line 23, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 23, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .collapse-bg {
   padding: 0 !important;
 }
-/* line 25, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 25, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .collapse-bg .card {
   margin-bottom: 0;
   border-radius: 0;
   border: none;
 }
 
-/* line 32, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 32, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .collapse-bg .card .list-group-item {
   padding: 0;
   border-radius: 0 !important;
   border-color: black;
 }
-/* line 36, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 36, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .collapse-bg .card .list-group-item a {
   background-color: #1a1a1a;
   color: #bdc3c7;
@@ -10758,13 +10758,13 @@ p, p span {
   height: 100%;
   padding: 10px;
 }
-/* line 42, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_navbar.scss */
+/* line 42, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_navbar.scss */
 .collapse-bg .card .list-group-item a:active {
   color: white;
   border-bottom: none;
 }
 
-/* line 2, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 2, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card {
   border: none;
   border-radius: 0;
@@ -10772,52 +10772,52 @@ p, p span {
   margin-bottom: 20px;
   background-color: white;
 }
-/* line 9, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 9, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card p {
   margin-bottom: 0;
 }
-/* line 12, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 12, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-topper {
   height: 200px;
   width: 100%;
   background-size: cover;
   background-position: center;
 }
-/* line 18, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 18, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block {
   padding: 10px;
 }
-/* line 20, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 20, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block .btn-read {
   background-color: #e8e8e8;
   font-weight: 300;
   border-radius: 0;
   color: black;
 }
-/* line 25, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 25, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block .btn-read:hover {
   background-color: #d8d8d8;
 }
-/* line 29, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 29, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block .card-title {
   font-size: 1.3rem;
   margin-bottom: 0;
 }
-/* line 32, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 32, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block .card-title a {
   color: black;
   text-decoration: none;
 }
-/* line 38, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 38, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block .tags {
   margin-bottom: 0;
 }
-/* line 40, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 40, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block .tags a {
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
 }
-/* line 46, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 46, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block .published_date {
   font-size: 0.8rem;
   color: #787878;
@@ -10825,14 +10825,14 @@ p, p span {
   margin-top: 0.3rem;
   margin-bottom: 0.3rem;
 }
-/* line 53, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 53, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.index .card .card-block .card-text {
   font-size: 0.9rem;
   color: black;
   text-decoration: none;
 }
 
-/* line 62, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 62, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .author-bio {
   background-color: white;
   padding: 15px 45px;
@@ -10841,48 +10841,48 @@ p, p span {
   margin: 30px 0;
   text-align: center;
 }
-/* line 75, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 75, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .author-bio h4 {
   text-align: center;
   font-weight: bold;
   font-size: 22px;
 }
-/* line 80, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 80, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .author-bio h6 {
   font-weight: 500;
   font-size: 18px;
 }
 
-/* line 88, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 88, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.edit .card .card-body, .posts.new .card .card-body {
   background-color: #e8e8e8;
 }
-/* line 91, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 91, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.edit .card .card-title, .posts.new .card .card-title {
   margin-bottom: 0;
   font-size: 18px;
 }
-/* line 95, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 95, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.edit .card .list-group-item, .posts.new .card .list-group-item {
   padding: 10px;
   border-right: 0;
   border-left: 0;
 }
-/* line 99, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 99, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.edit .card .list-group-item input[type='text'], .posts.edit .card .list-group-item textarea, .posts.new .card .list-group-item input[type='text'], .posts.new .card .list-group-item textarea {
   font-size: 14px;
   background-color: #e8e8e8;
 }
-/* line 103, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 103, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.edit .card .list-group-item textarea, .posts.new .card .list-group-item textarea {
   height: 100px;
 }
-/* line 106, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 106, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .posts.edit .card .list-group-item:last-child, .posts.new .card .list-group-item:last-child {
   background-color: #e8e8e8;
 }
 
-/* line 113, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 113, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 section {
   width: 100%;
   float: right;
@@ -10890,7 +10890,7 @@ section {
   text-align: center;
 }
 
-/* line 120, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 120, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 footer {
   background: #343a40;
   width: 100%;
@@ -10898,47 +10898,47 @@ footer {
   opacity: 0.90;
 }
 
-/* line 126, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 126, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 footer p, footer h3 {
   color: #FFF;
   text-align: center;
 }
 
-/* line 130, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 130, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 footer p a {
   color: #FFF;
   text-decoration: none;
 }
 
-/* line 135, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 135, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 ul.social li {
   display: inline;
 }
 
-/* line 138, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 138, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 ul.social li img {
   height: 30px;
 }
 
-/* line 142, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+/* line 142, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
 .social {
   text-align: center;
 }
 
 @media screen and (min-width: 34em) {
-  /* line 148, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+  /* line 148, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
   .posts.index .card {
     height: 440px;
   }
 }
 @media screen and (min-width: 48em) {
-  /* line 154, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+  /* line 154, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
   .posts.index .card {
     height: 420px;
   }
 }
 @media screen and (min-width: 75em) {
-  /* line 160, /Users/Cheikhndiongue/Projects/thenewspanel/app/assets/stylesheets/_post.scss */
+  /* line 160, /Users/Cheikhndiongue/Projects/abasssall/app/assets/stylesheets/_post.scss */
   .posts.index .card {
     height: 415px;
   }
